@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+.menu{
+    padding-top: 2%;
+}
+
+.titulo{
+    text-align: center;
+    color: rgb(21, 62, 21);
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+
+.banner1{
+ padding-top: 2%;
+}
+
+.banner2{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.rodape{ 
+    text-align: center;
+    padding-top: 1%;
+    font-size: 1.3em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h5{
+    padding: 6px;
+}
+
+p{
+    padding: 6px;
+}
